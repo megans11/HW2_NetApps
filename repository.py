@@ -1,3 +1,9 @@
+# Author: Megan Salvatore
+
+# references used:
+# https://www.rabbitmq.com/tutorials/tutorial-three-python.html
+# https://www.mongodb.com/blog/post/getting-started-with-python-and-mongodb
+
 import sys
 import pymongo
 import time
